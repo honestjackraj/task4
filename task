@@ -41,6 +41,7 @@ console.log(any(obj1,obj2));
 
 
 <!DOCTYPE html>
+
 <html lang="en">
 <head>
     <meta charset="UTF-8">
